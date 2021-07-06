@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared PreferencesEventBookingYou</string>
+    <string name="last_name_et">Enter Last Name</string>
+    <string name="first_name_et">Enter First Name</string>
+    <string name="email_address_et">Enter Email Address</string>
+    <string name="phone_number_et">Enter Phone Number</string>
+    <string name="book_my_event_tv">Book My Event</string>
+    <string name="proceed_btn">Proceed</string>
+</resources>
